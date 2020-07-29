@@ -104,7 +104,7 @@ header {
   color: white;
   display: block;
   float: left;
-  transition: all 0.5s;
+  transition: all 3s;
 }
 
 .header-right a:hover {
